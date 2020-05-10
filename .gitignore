@@ -1,6 +1,6 @@
 venv/
 .idea/
-htmlcov/
+
 *.pyc
 __pycache__/
 
